@@ -8,7 +8,7 @@ SWF2023 해커톤 대비를 위한 web3.0, 블록체인 관련 스터디용 저�
 
 
 ## 약속 👍
-❗ 각 사람은 매주 keyword, question에 대한 comment 1개 이상, 또는 additional issue 1개 이상을 등록을 해야합니다
+❗ 각 사람은 매주 keyword, question에 대한 comment 1개 이상, 또는 additional issue 1개 이상을 등록을 해야합니다. <br>
 ❗ issue에 web3.0, 블록체인 혹은 그 외 대회 준비간 도움이 될 수 있는 자료를 마음껏 공유할 수 있습니다. 각 사람은 가능한 한 확인 후 코멘트를 남겨줍니다. 
 
 ## 스터디 일정
